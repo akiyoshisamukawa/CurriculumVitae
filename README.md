@@ -42,7 +42,7 @@
 * マイクロサービスにおけるスマートフォンアプリ 〜 Webサイトまで幅広く開発することができます。また新技術のキャッチアップから導入までを１つの流れとし、常にリリースし続けてきました。そのため、組織からも新しい領域へのチャレンジ依頼が多く、企画立案の上流工程も経験しています。
 
 マネージメント
-* 「エンジニアの価値を向上する」をキーワードに、エンジニア向けの育成に携わっています。特に社外への価値創造として、これまで「[LIFULL Creators Blog](https://www.lifull.blog/)」「[connpassでの勉強会主催](https://lifull.connpass.com/)」の立ち上げや、「[Qiita Organizations](https://qiita.com/organizations/lifull)」の運営をしております。また開発面ではTDDやスクラムなどの開発手法の導入をおこない、これまで数多くの施策をリリースまで導きました。
+* 「エンジニアの価値を向上する」をキーワードに、エンジニア向けの育成に携わっています。特に社外への価値創造として、これまで「[LIFULL Creators Blog](https://www.lifull.blog/)」「[connpassでの勉強会主催](https://lifull.connpass.com/)」の立ち上げや、「[Qiita Organizations](https://qiita.com/organizations/lifull)」の運営をしております。またチーム面ではTDDやスクラムなどの開発手法の導入をおこない、これまで数多くの施策をリリースまで導きました。
 
 ## 登壇歴
 
