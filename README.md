@@ -58,17 +58,10 @@
 
 ## 個人開発
 
-### Lococomクーポンリーダー （公開終了）
-https://play.google.com/store/apps/details?id=jp.lococom
-
-### スクショいらずの個体値チェッカー for ポケモンgo （公開終了）
-https://play.google.com/store/apps/details?id=net.samukaak.pokegorater
-
-### スキルシミュレーター for ドラクエ10 （公開終了）
-https://apps.apple.com/jp/app/id689725641
-
-### 東京行灯祭 ~Tokyo Lantern Festival~ 中野11月のお祭り （公開終了）
-https://apps.apple.com/jp/app/id569128741
+* Androidアプリ[Lococomクーポンリーダー](https://play.google.com/store/apps/details?id=jp.lococom) （公開終了）
+* Androidアプリ[スクショいらずの個体値チェッカー for ポケモンgo](https://play.google.com/store/apps/details?id=net.samukaak.pokegorater) （公開終了）
+* iOSアプリ[スキルシミュレーター for ドラクエ10](https://apps.apple.com/jp/app/id689725641) （公開終了）
+* iOSアプリ[東京行灯祭 \~Tokyo Lantern Festival\~ 中野11月のお祭り](https://apps.apple.com/jp/app/id569128741) （公開終了）
 
 ## 職務経歴
 
