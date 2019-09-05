@@ -49,12 +49,12 @@
 |登壇日|イベント|発表資料|
 |:-|:-|:-|
 |2017/07/27|Google APP DOJO|-|
-|2017/06/23|Firebase Performance in Otemachi Firebase #2|https://www.slideshare.net/AkiyoshiSamukawa/firebase-performance-in-otemachi-firebase-2|
-|2017/05/24|potatotips #40|https://www.slideshare.net/AkiyoshiSamukawa/20170524-potatotips-40|
-|2017/05/19|shibuya.apk #14|https://www.slideshare.net/AkiyoshiSamukawa/20170519-shibuyaapk-14-pregoogle-io-2017|
-|2017/05/10|Forkwell Jobs|https://forkwell.connpass.com/event/55593/|
-|2017/04/06|ヒカラボ|https://career.levtech.jp/hikalab/event/detail/84/|
-|2017/03/17|Minami Aoyama Night #2|https://www.slideshare.net/AkiyoshiSamukawa/homesfragment-minami-aoyama-night-2|
+|2017/06/23|Firebase Performance in Otemachi Firebase #2|[Firebase Performance](https://www.slideshare.net/AkiyoshiSamukawa/firebase-performance-in-otemachi-firebase-2)|
+|2017/05/24|potatotips #40|[Android Instant App](https://www.slideshare.net/AkiyoshiSamukawa/20170524-potatotips-40)|
+|2017/05/19|shibuya.apk #14|[Spring to Life](https://www.slideshare.net/AkiyoshiSamukawa/20170519-shibuyaapk-14-pregoogle-io-2017)|
+|2017/05/10|[Forkwell Jobs](https://forkwell.connpass.com/event/55593/)|-|
+|2017/04/06|[ヒカラボ](https://career.levtech.jp/hikalab/event/detail/84/)|-|
+|2017/03/17|Minami Aoyama Night #2|[HOME'SアプリのFragmentとデザインの関係](https://www.slideshare.net/AkiyoshiSamukawa/homesfragment-minami-aoyama-night-2)|
 
 ## 個人開発
 
