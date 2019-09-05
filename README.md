@@ -42,14 +42,14 @@
 * マイクロサービスにおけるスマートフォンアプリ 〜 Webサイトまで幅広く開発することができます。また新技術のキャッチアップから導入までを１つの流れとし、常にリリースし続けてきました。そのため、組織からも新しい領域へのチャレンジ依頼が多く、企画立案の上流工程も経験しています。
 
 マネージメント
-* 「エンジニアの価値を向上する」をキーワードに、エンジニア向けの育成に携わっています。特に社外への価値創造として、これまで「[LIFULL Creators Blog](https://www.lifull.blog/)」「[connpassでの勉強会主催](https://lifull.connpass.com/)」の立ち上げや、「[Qiita Organizations](https://qiita.com/organizations/lifull)」の運営をしております。また開発面ではTDDやスクラムなどの開発手法の導入をおこない、これまで数多くのリリースを行いました。
+* 「エンジニアの価値を向上する」をキーワードに、エンジニア向けの育成に携わっています。特に社外への価値創造として、これまで「[LIFULL Creators Blog](https://www.lifull.blog/)」「[connpassでの勉強会主催](https://lifull.connpass.com/)」の立ち上げや、「[Qiita Organizations](https://qiita.com/organizations/lifull)」の運営をしております。また開発面ではTDDやスクラムなどの開発手法の導入をおこない、これまで数多くの施策をリリースまで導きました。
 
 ## 登壇歴
 
 |登壇日|イベント|発表資料|
 |:-|:-|:-|
 |2017/07/27|Google APP DOJO|-|
-|2017/06/23|Firebase Performance in Otemachi Firebase #2|https://www.slideshare.net/AkiyoshiSamukawa/|firebase-performance-in-otemachi-firebase-2|
+|2017/06/23|Firebase Performance in Otemachi Firebase #2|https://www.slideshare.net/AkiyoshiSamukawa/firebase-performance-in-otemachi-firebase-2|
 |2017/05/24|potatotips #40|https://www.slideshare.net/AkiyoshiSamukawa/20170524-potatotips-40|
 |2017/05/19|shibuya.apk #14|https://www.slideshare.net/AkiyoshiSamukawa/20170519-shibuyaapk-14-pregoogle-io-2017|
 |2017/05/10|Forkwell Jobs|https://forkwell.connpass.com/event/55593/|
